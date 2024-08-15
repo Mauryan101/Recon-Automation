@@ -12,7 +12,8 @@ PROGRESS TO DATE:
 USAGE AND PARAMETERS:
 1: Modify the shell script to be able to execute the script: 
   _chmod +x main.sh_
-  2: _./main.sh <domainName> ... <Nth domainName>_
+  
+2: _./main.sh <domainName> .. <Nth domainName>_
 
 PHASES OF THE SCRIPT
 
