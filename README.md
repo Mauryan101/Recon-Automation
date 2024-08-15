@@ -1,4 +1,4 @@
-# Recon-Automation
+# Recon-Automation [PROJECT IN PROGRESS]
 Script to automate Web-Application Reconnaissance process. Nothing too fancy. Just made my life easier so I thought I'd share.
 
 FUTURE OF THIS PROJECT:
